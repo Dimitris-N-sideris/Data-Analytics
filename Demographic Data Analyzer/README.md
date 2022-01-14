@@ -32,7 +32,7 @@ Unit tests are written for you under `test_module.py`.
 
 For development, you can use `main.py` to test your functions. Click the "run" button and `main.py` will run.
 
-## Assignment source https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/sea-level-predictor
+## Assignment source https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/demographic-data-analyzer
 
 ### Dataset Source
 
