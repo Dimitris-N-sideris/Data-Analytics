@@ -45,12 +45,8 @@ Unit tests are written for you under `test_module.py`.
 
 ### Development
 
-For development, you can use `main.py` to test your functions. Click the "run" button and `main.py` will run.
+For development, you can use `main.py` to test your functions. 
 
-### Testing 
+## Assignment source https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/medical-data-visualizer
 
-We imported the tests from `test_module.py` to `main.py` for your convenience. The tests will run automatically whenever you hit the "run" button.
 
-### Submitting
-
-Copy your project's URL and submit it to freeCodeCamp.
